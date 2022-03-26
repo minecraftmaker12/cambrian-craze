@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cambrian_craze:block/incubator"
+    },
+    "facing=east": {
+      "model": "cambrian_craze:block/incubator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cambrian_craze:block/incubator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cambrian_craze:block/incubator",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cambrian_craze:blocks/kelp",
+    "particle": "cambrian_craze:blocks/kelp"
+  }
+}

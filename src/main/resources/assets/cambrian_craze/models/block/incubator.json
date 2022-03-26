@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cambrian_craze:blocks/tor",
+    "up": "cambrian_craze:blocks/tor",
+    "north": "cambrian_craze:blocks/uba",
+    "east": "cambrian_craze:blocks/tor",
+    "south": "cambrian_craze:blocks/tor",
+    "west": "cambrian_craze:blocks/tor",
+    "particle": "cambrian_craze:blocks/tor"
+  }
+}

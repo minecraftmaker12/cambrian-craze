@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cambrian_craze:blocks/bone_block_textures",
+    "up": "cambrian_craze:blocks/bone_block_textures",
+    "north": "cambrian_craze:blocks/bone",
+    "east": "cambrian_craze:blocks/bone",
+    "south": "cambrian_craze:blocks/bone",
+    "west": "cambrian_craze:blocks/bone",
+    "particle": "cambrian_craze:blocks/bone_block_textures"
+  }
+}
